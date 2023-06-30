@@ -50,7 +50,7 @@ function generatePassword() {
     }
 
     var password = ""
-
+// added variable to password for the incremented value above
     if (charactertypes.length === 0) {
         alert("Im sorry, it looks like you have not selected a character type, please try again");
         return;
