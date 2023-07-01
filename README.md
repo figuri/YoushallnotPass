@@ -9,7 +9,9 @@ A small fun website that will randomly choose a password given your chosen crite
 | CSS     | [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)      |   
 | Git | [https://git-scm.com/](https://git-scm.com/)     |
 |Vs Code| [https://https://code.visualstudio.com/](https://code.visualstudio.com/)
-|Github| [https://github.com](https://github.com)
+|Github| [https://github.com](https://github.com)    |
+|JavaScript| [https://developer.mozilla.org/en-US/docs/Web/javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)     |
+|
 
 
 ## **Description**
